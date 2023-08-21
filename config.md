@@ -19,7 +19,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Div F Conference 2023"
 website_descr = "Div F Conference 2023"
-website_url   = "https://thomaschaffey.github.io/divFconf2023"
+website_url   = "https://tchaffey.com/"
 +++
 
 <!--
