@@ -19,7 +19,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Div F Conference 2023"
 website_descr = "Div F Conference 2023"
-website_url   = "https://tchaffey.com/"
+website_url   = "https://divfconference2023.eng.cam.ac.uk/"
 +++
 
 <!--
@@ -28,4 +28,4 @@ Add here global latex commands to use throughout your pages.
 \newcommand{\R}{\mathbb R}
 \newcommand{\scal}[1]{\langle #1 \rangle}
 
-@def base_url_prefix = "divFconf2023"
+<!---@def base_url_prefix = "divFconf2023" --->
