@@ -4,5 +4,57 @@ title = "Speakers"
 
 ## Speakers
 
-*Details coming soon...*
+### Morning talks (11:00--12:30)
 
+#### Keynote: [George Cantwell](https://www.george-cantwell.com/) (11:00--11:30)
+
+#### Gabriel Arpino (11:30 -- 11:50)
+
+*Statistical-Computational Tradeoffs in Mixed Sparse Linear Regression*
+
+We consider the problem of mixed sparse linear regression with two components, where two sparse signals are observed through n unlabelled noisy linear measurements. Prior work has shown that the problem suffers from a significant statistical-to-computational gap, resembling other computationally challenging high-dimensional inference problems such as Sparse PCA and Robust Sparse Mean Estimation. We establish the existence of a more extensive computational barrier for this problem through the method of low-degree polynomials, but show that the problem is computationally hard only in a very narrow symmetric parameter regime. We identify smooth information-computation tradeoffs in this problem and prove that a simple linear-time algorithm succeeds outside of the narrow hard regime. To the best of our knowledge, this is the first thorough study of the interplay between mixture symmetry, signal sparsity, and their joint impact on the computational hardness of mixed sparse linear regression. This is joint work with Ramji Venkataramanan. https://proceedings.mlr.press/v195/arpino23a.html.
+
+#### Greg Flamich (11:50--12:10)
+
+*Relative Entropy Coding with Greedy Poisson Rejection Sampling*
+
+Relative entropy coding is a fundamental data compression problem concerned with encoding a sample from a target distribution using as few bits as possible on average. Algorithms that solve this problem find applications in neural data compression and differential privacy and can serve as a more efficient alternative to quantization-based methods. In this talk, I will overview relative entropy coding, its applications, and limitations. Then, I will present greedy Poisson rejection sampling (GPRS), the first algorithm to encode samples from a broad class of distributions with optimal time complexity. Finally, I will point out some interesting open questions and future directions for research.
+
+#### Charles Micou (12:10--12:30)
+
+*Brain-machine interface usage triggers emergence of new mental representations of a familiar environment*
+
+It's an interesting time to be a Brain-Machine Interface (BMI) researcher: new neuroimaging techniques can resolve activities of populations of neurons at single-cell resolution during behaviour. At the same time, machine learning techniques and contemporary computing hardware enable prediction of behavioural actions from neural activity. However, despite high accuracy in 'open-loop' decoding of neural activity, where neural activity is related to actions offline, what happens when such a predictive mapping is used in closed-loop to control behaviour remains a largely open question. This open question is particularly interesting for parts of the brain that can learn and adapt on rapid timescales, as this raises the possibility of any such mapping changing during BMI usage. We present results from a closed-loop BMI experiment that images from CA1 hippocampus in mice. CA1 is a particularly plastic brain region, known to encode the spatial surroundings of an animal and, perhaps, the more abstract concept of 'context'. We find that an alternative neural representation of the same environment emerges when mice control their navigation using BMI. We explore the ramifications of this difference in neural representations for producing accurate closed-loop BMI controllers.
+
+### Afternoon talks (2:00--3:30)
+
+#### Keynote: [Amanda Prorock]() (2:00--2:30)
+
+*Heterogeneous learning for multi-robot systems*
+
+How are we to orchestrate large teams of agents? How do we distill global goals into local robot
+policies? Machine learning has revolutionized the way in which we address these questions by
+enabling us to automatically synthesize decentralized agent policies from global objectives. In
+this presentation, I first describe how we leverage data-driven approaches to learn interaction
+strategies that lead to coordinated and cooperative behaviours. I will introduce our work on
+Graph Neural Networks, and show how we use such architectures to learn multi-agent policies
+through differentiable communications channels. I then focus on recent results showing how
+heterogeneous learning paradigms contribute to resilient teambehaviours.
+
+#### Herbie Bradley (14:30--14:50)
+
+*Evolutionary Algorithms and Large Language Models*
+
+Large Language Models (LLMs) have rapidly progressed in capability over recent years, exhibiting increasing competency in NLP tasks. Recent work has underscored the potential of LLMs to enable highly proficient novel evolutionary algorithms in both code and natural language domains. Motivated by these opportunities, we introduce OpenELM, an open-source Python library for designing evolutionary algorithms that use LLMs as an intelligent variation operator as well as for assessing fitness and measures of diversity.
+
+#### Daniel Larby (14:50--15:10)
+
+*Design and tuning of passivity-based controllers for robotic surgery.*
+
+Robots are highly nonlinear systems, and passivity theory is a crucial tool in designing controllers for such systems and proving closed loop stability. However, tuning such controllers can be challenging. We demonstrate a method of passive controller design based upon constructing virtual mechanisms, which allows intuitive but flexible design of controller structures, and present efforts towards tuning such controllers using algorithmic differentiation and nonlinear optimisation techniques.
+
+#### Austin Tripp (15:10--15:30)
+
+*Retro-fallback: a search algorithm for uncertain AND/OR graphs*
+
+Retrosynthetic planning is the task of proposing a series of reactions to synthesize a desired molecule from simpler, purchasable molecules. While previous works have proposed algorithms to find optimal solutions for a range of metrics, the fact that we have imperfect knowledge of the space of possible reactions is generally overlooked. This means we have uncertainty of the graph structure. To account for this, I present a formulation of uncertainty in AND/OR graphs using stochastic processes, and an algorithm called retro-fallback which greedily maximizes the probability that any solution succeeds. This talk with focus primarily on the algorithm details, but some experimental demonstrations are also available.
