@@ -8,6 +8,8 @@ title = "Speakers"
 
 #### Keynote: [George Cantwell](https://www.george-cantwell.com/) (11:00--11:30)
 
+*Details TBC*
+
 #### Gabriel Arpino (11:30 -- 11:50)
 
 *Statistical-Computational Tradeoffs in Mixed Sparse Linear Regression*
