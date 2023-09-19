@@ -8,7 +8,13 @@ title = "Speakers"
 
 #### Keynote: [George Cantwell](https://www.george-cantwell.com/) (11:00--11:30)
 
-*Details TBC*
+*What do we learn from adding realism to epidemic models?*
+
+In 2020, for some reason, there was an epidemic of epidemic models.  At this time the foundational models of the field were long established, but they were not obviously providing much help.  No doubt in an attempt to be helpful, we created ever more baroque models, incorporating ever more realism.  What have we learned from these models, and what can be learned from these models?
+
+ 
+
+I will give a brief outline of epidemic modelling and network approaches therein.  I will outline some general and qualitative findings, and then discuss how – in future work – we might render the models useful in practice.
 
 #### Gabriel Arpino (11:30 -- 11:50)
 
