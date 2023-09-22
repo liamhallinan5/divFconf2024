@@ -4,7 +4,9 @@ title = "Speakers"
 
 ## Speakers
 
-### Morning talks (11:00--12:30)
+### Morning talks (10:50--12:30)
+
+#### Welcome address: Simon Godsill (10:50--11:00)
 
 #### Keynote: [George Cantwell](https://www.george-cantwell.com/) (11:00--11:30)
 
@@ -49,19 +51,19 @@ Graph Neural Networks, and show how we use such architectures to learn multi-age
 through differentiable communications channels. I then focus on recent results showing how
 heterogeneous learning paradigms contribute to resilient teambehaviours.
 
-#### Herbie Bradley (14:30--14:50)
+#### Herbie Bradley (2:30--2:50)
 
 *Evolutionary Algorithms and Large Language Models*
 
 Large Language Models (LLMs) have rapidly progressed in capability over recent years, exhibiting increasing competency in NLP tasks. Recent work has underscored the potential of LLMs to enable highly proficient novel evolutionary algorithms in both code and natural language domains. Motivated by these opportunities, we introduce OpenELM, an open-source Python library for designing evolutionary algorithms that use LLMs as an intelligent variation operator as well as for assessing fitness and measures of diversity.
 
-#### Daniel Larby (14:50--15:10)
+#### Daniel Larby (2:50--3:10)
 
 *Design and tuning of passivity-based controllers for robotic surgery.*
 
 Robots are highly nonlinear systems, and passivity theory is a crucial tool in designing controllers for such systems and proving closed loop stability. However, tuning such controllers can be challenging. We demonstrate a method of passive controller design based upon constructing virtual mechanisms, which allows intuitive but flexible design of controller structures, and present efforts towards tuning such controllers using algorithmic differentiation and nonlinear optimisation techniques.
 
-#### Austin Tripp (15:10--15:30)
+#### Austin Tripp (3:10--3:30)
 
 *Retro-fallback: a search algorithm for uncertain AND/OR graphs*
 

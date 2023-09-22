@@ -1,7 +1,7 @@
 @def title = "Home Page"
 @def tags = ["syntax", "code"]
 
-## 29th September, 11am--3:30pm.
+## 29th September, 11am--4:30pm.
 
 The 2023 Div-F Conference will take place in person at the Engineering Department. The conference will include:
 
