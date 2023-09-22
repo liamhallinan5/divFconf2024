@@ -13,5 +13,6 @@ title = "Posters"
 * Rao Ma: *Adpating an ASR Foundation Model for Spoken Language Assessment*
 * Shirley Liu: *Many-user multiple-access channels with random user activity and coding*
 * Prithvi Raj: *Neuromorphic Control of Quadrupedal Robots*
+* Mengjie Qian: *Adapting an Unadaptable ASR System*
 
 *More coming soon...*
