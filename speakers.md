@@ -22,7 +22,7 @@ I will give a brief outline of epidemic modelling and network approaches therein
 
 *Statistical-Computational Tradeoffs in Mixed Sparse Linear Regression*
 
-We consider the problem of mixed sparse linear regression with two components, where two sparse signals are observed through n unlabelled noisy linear measurements. Prior work has shown that the problem suffers from a significant statistical-to-computational gap, resembling other computationally challenging high-dimensional inference problems such as Sparse PCA and Robust Sparse Mean Estimation. We establish the existence of a more extensive computational barrier for this problem through the method of low-degree polynomials, but show that the problem is computationally hard only in a very narrow symmetric parameter regime. We identify smooth information-computation tradeoffs in this problem and prove that a simple linear-time algorithm succeeds outside of the narrow hard regime. To the best of our knowledge, this is the first thorough study of the interplay between mixture symmetry, signal sparsity, and their joint impact on the computational hardness of mixed sparse linear regression. This is joint work with Ramji Venkataramanan. https://proceedings.mlr.press/v195/arpino23a.html.
+Large-scale data is not only high-dimensional, but also heterogeneous. Real-world observations, when combined to form large datasets, often incorporate signals from different subpopulations. In this talk we will consider a simple heterogeneous model for high-dimensional inference, namely the Mixed Sparse Linear Regression model. We provide rigorous evidence for the existence of a fundamental statistical-computational tradeoff in a symmetric version of this model. We also prove that a very simple algorithm succeeds in recovering the underlying signals whenever the model parameters are not highly symmetric. To the best of our knowledge, this is the first thorough study of the interplay between mixture symmetry, signal sparsity, and their joint impact on the computational hardness of mixed sparse linear regression. This is joint work with Ramji Venkataramanan. https://proceedings.mlr.press/v195/arpino23a.html.
 
 #### Greg Flamich (11:50--12:10)
 
@@ -38,7 +38,7 @@ It's an interesting time to be a Brain-Machine Interface (BMI) researcher: new n
 
 ### Afternoon talks (2:00--3:30)
 
-#### Keynote: [Amanda Prorock]() (2:00--2:30)
+#### Keynote: [Amanda Prorok]() (2:00--2:30)
 
 *Heterogeneous learning for multi-robot systems*
 
