@@ -17,8 +17,8 @@ ignore = ["node_modules/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 generate_rss = true
-website_title = "Div F Conference 2023"
-website_descr = "Div F Conference 2023"
+website_title = "Div F Conference 2024"
+website_descr = "Div F Conference 2024"
 website_url   = "https://liamhallinan5.github.io/divFconf2024/"
 +++
 
