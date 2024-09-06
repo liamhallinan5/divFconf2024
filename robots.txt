@@ -1,4 +1,4 @@
-Sitemap: https://divfconference2023.eng.cam.ac.uk/sitemap.xml
+Sitemap: https://liamhallinan5.github.io/divFconf2024/sitemap.xml
 
 User-agent: *
 Disallow:
