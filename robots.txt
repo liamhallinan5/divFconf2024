@@ -1,4 +1,4 @@
-Sitemap: https://liamhallinan5.github.io/divFconf2024/sitemap.xml
+Sitemap: https://liamhallinan5.github.io/sitemap.xml
 
 User-agent: *
 Disallow:
