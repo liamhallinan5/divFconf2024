@@ -40,19 +40,19 @@ Abstract TBC
 
 Abstract TBC
 
-#### John Bronskill (2:30pm--2:50pm)
+#### John Bronskill (CBL) (2:30pm--2:50pm)
 
 *LLM Processes: Numerical Predictive Distributions Conditioned on Natural Language*
 
 Abstract TBC
 
-#### Carl Ashworth (2:50pm--3:10pm)
+#### Carl Ashworth (CBL) (2:50pm--3:10pm)
 
 *The Neural Dynamics of Endogenous Pain Regulation*
 
 Abstract TBC
 
-#### Yaman Kindap (3:10pm--3:30pm)
+#### Yaman Kindap (SigProc) (3:10pm--3:30pm)
 
 *Non-Gaussian Stochastic Differential Equation Models for Dynamical Systems*
 
