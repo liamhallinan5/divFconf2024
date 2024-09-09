@@ -22,7 +22,7 @@ Abstract TBC
 
 #### Zixing Wang (Control)  (12:05pm--12:25pm)
 
-*Control of an unknown physical system with a stability guaranteeg*
+*Control of an unknown physical system with a stability guarantee*
 
 Abstract TBC
 
