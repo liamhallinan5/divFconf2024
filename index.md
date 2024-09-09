@@ -1,7 +1,7 @@
 @def title = "Home Page"
 @def tags = ["syntax", "code"]
 
-## Tuesday 8th October, 10:30am--4:00pm.
+## Tuesday 8th October, 10:30am--5:00pm.
 
 The 2024 Div-F Conference will take place in person at the Engineering Department. The conference will include:
 
