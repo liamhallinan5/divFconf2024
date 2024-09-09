@@ -9,7 +9,7 @@ The 2024 Div-F Conference will take place in person at the Engineering Departmen
 * Student / Post-doc presentations.
 * Interactive poster session.
 
-The event is free but you must [register](https://forms.office.com/Pages/ResponsePage.aspx?id=RQSlSfq9eUut41R7TzmG6cvthHPL_pBDorxDfCZmjURUOTFQRVFGQ0dCSjNJUjVKSks1TTJMSEVRWC4u) to attend -- this is so that we can adequately cater. 
+The event is free but you must [register](https://forms.office.com/e/4brznNMhk6) to attend -- this is so that we can adequately cater. 
 
 ### Venue
 
