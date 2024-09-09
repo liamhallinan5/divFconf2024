@@ -13,4 +13,4 @@ tags = ["programme", "schedule"]
 * 12:45pm-2:00pm: Posters and lunch. Venue: TBC
 * 2:00pm-3:30pm: Afternoon session (keynote: TBC). Venue: TBC
 * 3:30pm-4:00pm: Term welcome address from Simon Godsill. Venue: TBC
-* 4:00pm: Reception. Venue: TBC
+* 4:00pm-5:00pm: Reception. Venue: TBC
