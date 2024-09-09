@@ -32,7 +32,7 @@ Abstract TBC
 
 Abstract TBC
 
-### Afternoon talks (2:00pm--3:30pm)
+### Afternoon talks (2:00pm--4:00pm)
 
 #### Keynote: TBC (2:00pm--2:30pm)
 
