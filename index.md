@@ -1,17 +1,15 @@
 @def title = "Home Page"
 @def tags = ["syntax", "code"]
 
-## 29th September, 10:50am--4:30pm.
+## Tuesday 8th October, 10:30am--4:00pm.
 
-The 2023 Div-F Conference will take place in person at the Engineering Department. The conference will include:
+The 2024 Div-F Conference will take place in person at the Engineering Department. The conference will include:
 
 * Invited guest speakers.
 * Student / Post-doc presentations.
 * Interactive poster session.
 
-The event is free but you must [register](https://forms.gle/Z8UWiaxHd4GCfAAy8) to attend -- this is so that we can adequately cater. 
-
-Zoom link to join online: [https://zoom.us/j/95289193606?pwd=UVhZdDdqRWsweS9HNHdVZkU4R0VtQT09](https://zoom.us/j/95289193606?pwd=UVhZdDdqRWsweS9HNHdVZkU4R0VtQT09)
+The event is free but you must [register](https://forms.office.com/Pages/ResponsePage.aspx?id=RQSlSfq9eUut41R7TzmG6cvthHPL_pBDorxDfCZmjURUOTFQRVFGQ0dCSjNJUjVKSks1TTJMSEVRWC4u) to attend -- this is so that we can adequately cater. 
 
 ### Venue
 
@@ -22,8 +20,8 @@ CB2 1PZ, Cambridge, UK
 
 ### Committee
 
-* Aliksandra Shysheya
-* Qing Li
-* Xianrui Zheng
-* Tom Chaffey
+* Kai-Fung Chu (MIL)
+* Liam Hallinan (Control)
+* Ralph McDougall (SigProc)
+* Youjing Yu (CBL)
 
