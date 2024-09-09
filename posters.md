@@ -5,14 +5,10 @@ title = "Posters"
 ## Posters 
 
 
-* Aditya Ravuri: *Dimensionality Reduction as Probabilistic Inference*
-* Zhening Huang: *OpenIns3D: 3D open-world scene understanding*
-* Liam Hallinan: *Inverse Optimal Control for Passive Network Systems*
-* Simon McKnight: *Automatic Assessment of Conversational Speaking Tests*
-* Will Rhode: *Precision agriculture: controlling crop growth*
-* Rao Ma: *Adpating an ASR Foundation Model for Spoken Language Assessment*
-* Shirley Liu: *Many-user multiple-access channels with random user activity and coding*
-* Prithvi Raj: *Neuromorphic Control of Quadrupedal Robots*
-* Mengjie Qian: *Adapting an Unadaptable ASR System*
+* Xin Qin: *Economic Capacity Withholding Bounds of Competitive Energy Storage Bidders*
+* Fred Goodyer: *Reversible Jump Markov chain Monte Carlo for Pulse Fitting*
+* Chi-Jen Lo: *Sparse Variational Gaussian Process Classification in the Fully Bayesian Regime*
+* Thomas Chaffey: *Convergence of energy-based learning in linear resistive networks*
+
 
 *More coming soon...*
