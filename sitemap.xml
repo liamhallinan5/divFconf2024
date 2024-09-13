@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
+    <loc>divfconference2024.eng.cam.ac.uk/speakers/index.html</loc>
+    <lastmod>2024-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>divfconference2024.eng.cam.ac.uk/posters/index.html</loc>
     <lastmod>2024-09-13</lastmod>
     <changefreq>monthly</changefreq>
