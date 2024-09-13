@@ -5,7 +5,7 @@
 
 The 2024 Div-F Conference will take place in person at the Engineering Department. The conference will include:
 
-* Invited guest speakers.
+* Keynote speakers.
 * Student / Post-doc presentations.
 * Interactive poster session.
 
