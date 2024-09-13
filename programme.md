@@ -15,7 +15,7 @@ tags = ["programme", "schedule"]
 | 11:00am-11:15am    | Introduction from Simon Godsil                    | LT1           |
 | 11:15am-12:45pm    | Morning Session (keynote: Guillaume Hennequin)    | LT1           |
 |                    | **Lunch**                                         |               |
-| 12:45pm-2:00pm     | Posters and lunch                                 | Inglis Foyer  |
+| 12:45pm-2:00pm     | Posters and lunch                                 | LR4 (Baker Building) |
 |                    | **Afternoon Session**                             |               |
 | 2:00pm-3:30pm      | Afternoon session (keynote: TBC)                  | LT1           |
 | 3:30pm-4:00pm      | Term welcome address from Simon Godsill           | LT1           |
