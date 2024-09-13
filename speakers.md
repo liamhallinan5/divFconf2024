@@ -2,7 +2,7 @@ f+++
 title = "Speakers"
 +++
 
-## Speakers (Abstracts Forthcoming)
+## Speakers
 
 ### Morning session (11:00am--12:45pm)
 
