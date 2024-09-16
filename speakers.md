@@ -4,19 +4,18 @@ title = "Speakers"
 
 ## Speakers (Abstracts Forthcoming)
 
-### Morning session (11:00am--12:45pm)
+### Morning session (11:00am--1:00pm)
 
-#### 1. Introduction: Simon Godsill (11:00am--11:15am)
+#### 1. Introduction: Simon Godsill (11:00am--11:10am)
 
-#### 2. Keynote: Guillaume Hennequin (11:15am--11:45am)
+#### 2. Keynote: Guillaume Hennequin (11:10am--11:40am)
 
 *The best-laid plans of mice and men...*
 
 My group's research in computational neuroscience is broadly concerned with how brains control behaviour. In many settings, behaviour involves sequences of actions that need careful planning. In this talk, I will present our recent work on planning in recurrent neural networks (Jensen et al., Nat. Neurosci, 2024). I will show that decision-making networks trained with the ability to decide for themselves (i) when to pause and ‘think’, and (ii) what to do with those ‘thoughts’, recapitulate key aspects of human planning in a flexible navigation task. We show that this network-level theory of planning is supported by neural recordings from the hippocampus of rodents. I will strive to make this accessible for the whole of DivF, and to wrap up in 25 min, but then again, the best-laid plans of mice and men...
 
 
-
-#### 3. Aliaksandra Shysheya & Cristiana Diaconu (CBL) (11:45am -- 12:05pm)
+#### 3. Aliaksandra Shysheya & Cristiana Diaconu (CBL) (11:40am -- 12:00pm)
 
 *On conditional diffusion models for PDE simulations*
 
@@ -25,15 +24,20 @@ Modelling partial differential equations (PDEs) is of crucial importance in scie
 Recently, diffusion models have emerged as a powerful tool for conditional generation, being able to flexibly incorporate observations without retraining. In this work, we perform a comparative study of score-based diffusion models for forecasting and assimilation of sparse observations. In particular, we focus on diffusion models that are either presented with the conditional information during training, or conditioned after unconditional training. We address the shortcomings of previous work and develop methods that are able to successfully tackle the combination of forecasting and data assimilation, a task commonly encountered in real-world scenarios such as weather modelling.
 
 
-#### 4. Jeff Wang (Control)  (12:05pm--12:25pm)
+#### 4. Jeff Wang (Control)  (12:00pm--12:20pm)
 
 *Control of an unknown physical system with a stability guarantee*
 
 
 
-#### 5. Carl Ashworth (CBL) (12:25pm--12:45pm)
+#### 5. Carl Ashworth (CBL) (12:20pm--12:40pm)
 
 *The Neural Dynamics of Endogenous Pain Regulation*
+
+
+#### 6. Florian Fischer (MIL) (12:40pm--1:00pm)
+
+*Simulating User Movements in VR Interaction*
 
 
 
