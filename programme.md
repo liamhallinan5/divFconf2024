@@ -13,7 +13,7 @@ tags = ["programme", "schedule"]
 | 10:30am-11:00am    | Coffee/Tea                                        | Inglis Foyer  | 
 |                    | **Morning Session**                               |               |
 | 11:00am-11:15am    | Introduction from Simon Godsil                    | LT1           |
-| 11:15am-12:45pm    | Morning Session (keynote: Guillaume Hennequin)    | LT1           |
+| 11:15am-12:45pm    | Morning session (keynote: Guillaume Hennequin)    | LT1           |
 |                    | **Lunch**                                         |               |
 | 12:45pm-2:00pm     | Posters and lunch                                 | LR4 (Baker Building) |
 |                    | **Afternoon Session**                             |               |
