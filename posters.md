@@ -11,6 +11,7 @@ title = "Posters"
 * Thomas Chaffey: *Convergence of energy-based learning in linear resistive networks*
 * Amr Gomaa: *Toward a Surgeon-in-the-Loop Ophthalmic Robotic Apprentice using Reinforcement and Imitation Learning*
 * Rory Byrne: *Motor preparation as initialisation of intrinsic current*
+* Jingbiao Mei: *Improving Hateful Meme Detection through Retrieval-Guided Contrastive Learning*
 
 
 *More coming soon...*
