@@ -8,7 +8,8 @@ title = "Speakers"
 
 #### 1. Introduction: Simon Godsill (11:00am--11:10am)
 
-#### 2. Keynote: Guillaume Hennequin (11:10am--11:40am)
+#### 2. Keynote: Guillaume Hennequin (CBL) (11:10am--11:40am)
+[Group website](https://cbl.eng.cam.ac.uk/hennequin/)
 
 *The best-laid plans of mice and men...*
 
@@ -43,7 +44,8 @@ Recently, diffusion models have emerged as a powerful tool for conditional gener
 
 ### Afternoon talks (2:00pm--4:00pm)
 
-#### 1. Keynote: TBC (2:00pm--2:30pm)
+#### 1. Keynote: Hatice Gunes (2:00pm--2:30pm)
+[Group website](https://cambridge-afar.github.io/)
 
 *TBC*
 
