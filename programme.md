@@ -17,7 +17,7 @@ tags = ["programme", "schedule"]
 |                    | **Lunch**                                         |                        |
 | 1:00pm-2:00pm      | Posters and lunch                                 | LR4 (Baker Building)   |
 |                    | **Afternoon Session**                             |                        |
-| 2:00pm-3:30pm      | Afternoon session (keynote: TBC)                  | LT1 (Inglis Building)  |
+| 2:00pm-3:30pm      | Afternoon session (keynote: Hatice Gunes)         | LT1 (Inglis Building)  |
 | 3:30pm-4:00pm      | Term welcome address from Simon Godsill           | LT1 (Inglis Building)  |
 |                    | **Reception**                                     |                        |
 | 4:00pm-5:00pm      | Reception                                         | Inglis Foyer           |
