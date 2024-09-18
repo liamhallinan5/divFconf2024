@@ -12,6 +12,7 @@ title = "Posters"
 * Amr Gomaa: *Toward a Surgeon-in-the-Loop Ophthalmic Robotic Apprentice using Reinforcement and Imitation Learning*
 * Rory Byrne: *Motor preparation as initialisation of intrinsic current*
 * Jingbiao Mei: *Improving Hateful Meme Detection through Retrieval-Guided Contrastive Learning*
+* Billy Shi: *Pay Attention! Human-Centric Improvements of LLM-based Interface for Assisting Software Test Case Development*
 
 
 *More coming soon...*
