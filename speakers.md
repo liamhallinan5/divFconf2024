@@ -40,6 +40,7 @@ Recently, diffusion models have emerged as a powerful tool for conditional gener
 
 *Simulating User Movements in VR Interaction*
 
+Automated biomechanical testing has great potential for the development of VR applications, as initial insights into user behaviour can be gained in silico early in the design process. In particular, it allows prediction of user movements and ergonomic variables, such as fatigue, prior to conducting user studies. In combination with mathematical methods for predicting control strategies, biomechanical models provide a powerful tool to simulate interaction movements in a time-continuous and holistic manner. In this talk, I present a novel, optimisation-driven perspective on movement-based interaction in VR, discuss the potential of control theoretic and RL-based user models for Human-Computer Interaction and interface optimisation, and present SIM2VR, a system that uses these methods to align user simulation with a given VR application. SIM2VR, for the first time, enables training simulated users directly in the same VR application that real users interact with, and constitutes a decisive step towards automated biomechanical testing in VR.
 
 
 ### Afternoon talks (2:00pm--4:00pm)
