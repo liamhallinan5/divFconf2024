@@ -68,6 +68,8 @@ Machine learning practitioners often face significant challenges in formally int
 
 *Non-Gaussian Stochastic Differential Equation Models for Dynamical Systems*
 
+Many natural and engineering systems evolve continuously in time, exhibiting complex behaviors such as abrupt changes and extreme events. However, most practical models rely on discrete-time, Gaussian assumptions, which can oversimplify real-world dynamics, leading to the loss of critical insights. This talk introduces non-Gaussian stochastic processes as a more flexible framework for capturing both the latent trends and rare phenomena in such systems. Using Levy processes—an extension of Brownian motion—we will explore how these models provide a natural prior for continuous-time, heavy-tailed dynamics. The tutorial will cover the basic principles and simulation techniques for Levy processes and demonstrate their application to stochastic differential equations (SDEs) for modeling complex systems. Finally, we will discuss efficient methods for inference and learning in non-Gaussian SDEs, offering a powerful approach for engineering challenges involving unpredictable and extreme behavior, from financial shocks to severe weather events.
+
 
 
 #### 5. Term Welcome Address: Simon Godsill (3:30pm--4:00pm)
