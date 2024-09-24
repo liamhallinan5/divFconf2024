@@ -2,7 +2,7 @@
 title = "Speakers"
 +++
 
-## Speakers (Abstracts Forthcoming)
+## Speakers 
 
 ### Morning session (11:00am--1:00pm)
 
@@ -60,8 +60,9 @@ Machine learning practitioners often face significant challenges in formally int
 
 #### 3. Erez Li (Control) (2:50pm--3:10pm)
 
-*Single-cell dynamic measurements of antimicrobial response*
+*How does the physiology of a cell affect its response to antimicrobial treatments?*
 
+Antimicrobial resistance is drawing significant attention nowadays as many bacterial infections have become increasingly difficult to treat with conventional antibiotics. Meanwhile, phage therapy has re-emerged as a promising alternative. While extensive research has focused on the molecular characterisation of antimicrobial agents such as antibiotics and phages, little is known about how bacterial physiological heterogeneity influences treatment outcomes. Given that the effectiveness of both antibiotics and phages intrinsically depends on the physiological state of the bacteria, we ask: 1) How does intrinsic physiological heterogeneity lead to heterogeneous response towards treatments? 2) How does heterogeneous response affect post-treatment recovery? In this talk, we present an integrated approach that combines a high throughput microfluidics platform and a machine learning based data processing pipeline to analyse response and recovery of individual bacterial cells, addressing these questions.
 
 
 #### 4. Yaman Kindap (SigProc) (3:10pm--3:30pm)
