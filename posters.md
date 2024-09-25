@@ -13,6 +13,7 @@ title = "Posters"
 * Rory Byrne: *Motor preparation as initialisation of intrinsic current*
 * Jingbiao Mei: *Improving Hateful Meme Detection through Retrieval-Guided Contrastive Learning*
 * Billy Shi: *Pay Attention! Human-Centric Improvements of LLM-based Interface for Assisting Software Test Case Development*
+* Carl Ashworth: *Neural Dynamics of Endogenous Pain Regulation*
 
 
 *More coming soon...*
