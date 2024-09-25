@@ -35,6 +35,10 @@ Recently, diffusion models have emerged as a powerful tool for conditional gener
 
 *The Neural Dynamics of Endogenous Pain Regulation*
 
+Pain is regulated by endogenous pain modulatory pathways, which connect the brain to the spinal cord and up and down-regulate the transmission of nociceptive information. These control pathways are hypothesized to become dysfunctional in chronic pain, making understanding their dynamics vital. The most important source of this control is the Rostral Ventromedial Medulla (RVM). As the lowest part of the brainstem, this region is a bottleneck through which signals from higher-order brain regions must pass before reaching the spinal cord. To date, research into the function of the RVM has been almost entirely pharmacological and anatomical, and a computational model of ongoing RVM dynamics does not currently exist that can explain the behaviour of RVM neurons individually or as a population.
+
+In this talk, I will show how periodic Gaussian processes (GPs) can provide new insights into the ongoing dynamics of RVM neurons. I will present evidence for the periodicity of a subset of RVM cells (ON- and OFF-cells) and discuss the implications of periodic dynamics on the connectivity and function of RVM in pain regulation, opening the door for simulations of population behaviour in this region.
+
 
 #### 6. Florian Fischer (MIL) (12:40pm--1:00pm)
 
