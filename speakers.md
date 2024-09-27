@@ -51,6 +51,7 @@ Automated biomechanical testing has great potential for the development of VR ap
 
 #### 1. Keynote: Hatice Gunes (2:00pm--2:30pm)
 [Bio](https://www.cl.cam.ac.uk/~hg410/)
+
 [Group website](https://cambridge-afar.github.io/)
 
 *Robotic Coaches for Mental Wellbeing: From the Lab to the Real World*
