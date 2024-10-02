@@ -14,6 +14,5 @@ title = "Posters"
 * Jingbiao Mei: *Improving Hateful Meme Detection through Retrieval-Guided Contrastive Learning*
 * Billy Shi: *Pay Attention! Human-Centric Improvements of LLM-based Interface for Assisting Software Test Case Development*
 * Carl Ashworth: *Neural Dynamics of Endogenous Pain Regulation*
+* Jiajun He: *Accelerating Relative Entropy Coding with Space Partitioning*
 
-
-*More coming soon...*
