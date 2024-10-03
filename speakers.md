@@ -29,7 +29,7 @@ Recently, diffusion models have emerged as a powerful tool for conditional gener
 
 *Control of an unknown physical system with a stability guarantee*
 
-
+In the era of machine learning, learning to control is gaining popularity. However, it is difficult to guarantee the stability of a system with a learnt controller. In this presentation, we will go through a controller design process for a simple physical system whose dynamics is unknown. Our design is data-driven and we guarantee stability by borrowing tools from passivity-based control. We think this presentation provides a new perspective on learning with guarantees.
 
 #### 5. Carl Ashworth (CBL) (12:20pm--12:40pm)
 
